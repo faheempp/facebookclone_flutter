@@ -1,6 +1,6 @@
 # facebook_clone
 
-A new Flutter application.
+A clone of facebook app using flutter.
 
 ## Getting Started
 
